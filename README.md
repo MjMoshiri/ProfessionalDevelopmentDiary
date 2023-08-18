@@ -1,8 +1,8 @@
 # Professional Development Diary
 
-Welcome to my Professional Development Diary! Recently, I embarked on a significant transition in my life – moving from Finland to the United States due to my marriage. Leaving my incredible team at Nokia was not an easy step, but it marked the beginning of a new chapter in my personal and professional journey. 
+Welcome to my Professional Development Diary!
 
-This repository is a daily log where I document every step of this transition. It encapsulates the knowledge I gain, the challenges I encounter, and the milestones I achieve along the way. During this period of change, I try to explore topics I am curious about, learn new skills, and possibly even discover new passions.  
+This repository is a daily log where I document every step of my learning journey. It encapsulates the knowledge I gain, the challenges I encounter, and the milestones I achieve along the way.I try to explore topics I am curious about, learn new skills, and possibly even discover new passions.  
 
 I hope this repository will not only serve as a chronicle of my personal and professional evolution but also inspire others to embrace learning and growth amidst life's transitions.
 
