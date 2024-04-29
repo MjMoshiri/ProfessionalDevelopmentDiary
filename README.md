@@ -17,6 +17,8 @@ Below are quick links to the important documents in this repository:
 
 - [Semster 5 Activities](./2023-08-12%202024-01-09%20(Semster%205)/) - This folder contains entries about various things I learned during Semester 5 of my bachelor's studies. Topics include MLOps, Kubernetes, Go, WebAssembly, web development, refining Java skills, and Mathematics for Machine Learning.
 
+- [MIT 6.034 Artificial Intelligence Course](./2024-03-15%202024-04-17%20(MIT%206.034%20AI)/) - This folder contains entries documenting my progress through the MIT 6.034 Artificial Intelligence course. This course covers a wide range of topics in AI, including search algorithms, neural networks, genetic algorithms, and more.
+
 In the future, I may add more documents to this repository. Any new additions will be listed here for quick and easy access.
 
 If you have any questions or feedback, please feel free to open an issue or send me a message.
