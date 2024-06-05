@@ -1,6 +1,6 @@
-# 2024-05-27
+# 2024-06-05
 
-**[Google Cloud Certification: Cloud Engineer Professional](https://www.coursera.org/professional-certificates/cloud-engineering-gcp)**: Started the certificate courses, completing the first two fundamental courses. Key phrases to remember:
+**[Google Cloud Certification: Cloud Engineer Professional](https://www.coursera.org/professional-certificates/cloud-engineering-gcp)**: Started the certificate courses, completing the first three fundamental courses. Key phrases to remember:
 
 ## Hierarchy:
 - **Resources**
@@ -20,6 +20,8 @@
 - **Firestore** (NoSQL)
 - **Cloud SQL**
 - **Spanner** (SQL)
+- **BigQuery** (Data Warehouse)
+- **Memorystore** (Redis/Memcached)
 
 ## Running:
 - **GKE**
@@ -33,11 +35,18 @@
 
 ## Access Control:
 - **Firewall**
-- **Nat**
+- **NAT**
+
+## IAM:
+- **Condition Policies**
+- **Signed URL**
+- **Object Lifecycle Management**
 
 ## Resources:
-- **Storage comparison**: [Google Cloud Storage Comparison](https://cloud.google.com/compute/docs/disks)
-- **Types comparison**: [Google Cloud Types Comparison](https://cloud.google.com/compute/docs/machine-resource)
+- **[Observability in GCP](https://cloud.google.com/stackdriver/docs)**
+- **[Storage Strategy](https://cloud.google.com/architecture/storage-advisor)**
+- **[Storage comparison](https://cloud.google.com/compute/docs/disks)**
+- **[VM Types comparison](https://cloud.google.com/compute/docs/machine-resource)**
 
 
 **Tags**: Google Cloud, Certification, Cloud Engineering
