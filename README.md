@@ -6,7 +6,13 @@ This repository is a log diary where I document every step of my learning journe
 
 I hope this repository will not only serve as a chronicle of my personal and professional evolution but also inspire others to embrace learning and growth amidst life's transitions.
 
-## Repository Contents
+## Learning in Progress
+
+- [Startup Science](./Startup/) - This folder contains entries documenting my learnings on how to build a successful startup. I believe that eventually, I will start my own company, and now is the time to learn how to do it. 
+
+- [Clouds](./Clouds/) - This folder contains entries documenting my learnings on cloud technologies, architecture, and engineering. This is a field that I would like to know more about.
+
+##  Other Repository Contents
 
 Below are quick links to the important documents in this repository:
 
@@ -18,6 +24,7 @@ Below are quick links to the important documents in this repository:
 - [Semster 5 Activities](./2023-08-12%202024-01-09%20(Semster%205)/) - This folder contains entries about various things I learned during Semester 5 of my bachelor's studies. Topics include MLOps, Kubernetes, Go, WebAssembly, web development, refining Java skills, and Mathematics for Machine Learning.
 
 - [MIT 6.034 Artificial Intelligence Course](./2024-03-15%202024-04-17%20(MIT%206.034%20AI)/) - This folder contains entries documenting my progress through the MIT 6.034 Artificial Intelligence course. This course covers a wide range of topics in AI, including search algorithms, neural networks, genetic algorithms, and more.
+
 
 In the future, I may add more documents to this repository. Any new additions will be listed here for quick and easy access.
 
