@@ -23,3 +23,5 @@
 ### Other Key Concepts:
 - **Autoencoders**: A type of neural network used for unsupervised learning that learns how to efficiently encode and compress data, useful in dimensionality reduction, data denoising, and anomaly detection.
 - **Batching**: The process of dividing the training data into smaller batches to speed up the training process and reduce memory requirements.
+
+**Tags**: Machine Learning, Neural Networks, AI, Deep Learning, Keras

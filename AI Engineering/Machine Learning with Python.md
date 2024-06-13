@@ -42,3 +42,5 @@
 - **Hierarchical Clustering**: A type of clustering where clusters are created in a tree-like structure. (Agglomerative, Divisive)
 - **Density-Based Clustering**: A type of clustering that identifies clusters based on the density of data points. (DBSCAN)
 - **Elbow Shape in K-means**: A technique used to determine the number of clusters in K-means clustering.
+
+**Tags**: Machine Learning, AI
