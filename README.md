@@ -9,7 +9,8 @@ I hope this repository will not only serve as a chronicle of my personal and pro
 ## Learning in Progress
 
 - [Startup Science](./Startup/) - This folder contains entries documenting my learnings on how to build a successful startup. I believe that eventually, I will start my own company, and now is the time to learn how to do it. 
-- [AI Engineering](./AI%20Engineering/) - This folder contains entries documenting my learnings on AI Engineering. I am learning how to build, deploy, and scale AI models in production, following the [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer).
+- [AI Engineering](./AI%20Engineering/) - This folder contains entries documenting my learnings in AI Engineering. I am learning how to build, deploy, and scale AI models in production. So far, I have finished the [IBM AI Engineering Professional Certificate](./AI%20Engineering/Certificates/IBM%20AI%20Engineering.pdf). I am currently working on more advanced and pratical topics (e.g., Quantization).
+
 ##  Other Repository Contents
 
 - [Android Development](./2023-05-31%202023-06-27%20(Android%20Journey)/) - This folder contains a series of entries documenting my journey in learning Android development. I started this journey with no prior experience in Android development, and by the end of it, I had built a fully functional Android app. If you're interested in a Summary of my Android journey, you can find it [here](./2023-05-31%202023-06-27%20(Android%20Journey)/2023-06-27%20(Android%20Summary).md)
