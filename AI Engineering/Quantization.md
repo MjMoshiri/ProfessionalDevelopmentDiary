@@ -30,3 +30,5 @@
 
 - [**MIT Han Lab**](https://hanlab.mit.edu/)
 - [**Reddit Local Llama**](https://www.reddit.com/r/LocalLLaMA/)
+
+**Tags**: Machine Learning, AI
