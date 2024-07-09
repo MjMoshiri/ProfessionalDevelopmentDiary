@@ -2,9 +2,9 @@
 
 ## C++20 Syntax
 - **`contains()`**: Check if a container has a certain element. (bool)
-- **Contiguous Iterator**: Provides direct access to the memory sequence in containers.
+- **Contiguous Iterator**: A pointer-like iterator that can be used to access elements in a contiguous memory block. 
 - **`ranges::copy`**: Copies elements from one range to another.
-- **`ranges::equal_range`**: Finds the range of elements matching a specific value.
+- **`ranges::equal_range`**: Returns a range containing all elements equivalent to value in the partitioned range `[first, last)`.
 - **`ranges::remove`**: Moves elements that should be removed to the end of the range; combine with `erase` for actual removal.
 - **`requires` clause**: A way to express constraints on template arguments directly in the function signature.
 - **`<concepts>` header**: Provides a set of standard concepts like `std::regular` and `std::totally_ordered`.
@@ -22,8 +22,8 @@
 
 ## Notes on Language Features
 Useful for understanding the new features and syntax in C++20.
-- [C++ Containers Overview](https://en.cppreference.com/w/cpp/container)
-- [Named Requirements in C++](https://en.cppreference.com/w/cpp/named_req)
+- [C++ Containers Overview](https://en.cppreference.com/w/cpp/container) 
+- [Named Requirements in C++](https://en.cppreference.com/w/cpp/named_req) (Useful for understanding concepts)
 - [C++ Concepts](https://en.cppreference.com/w/cpp/concepts)
 - [Plan for C++23 Ranges](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2020/p2214r0.html)
 
