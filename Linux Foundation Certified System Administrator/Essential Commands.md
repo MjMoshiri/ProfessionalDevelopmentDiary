@@ -57,3 +57,5 @@
 - `/etc/profile`: System-wide.
 - `.bash_profile`: User-specific.
 - `.bashrc`: User-specific, executed for non-login shells.
+
+**Tags**: Linux

@@ -30,3 +30,5 @@
 - `mkfs.xfs`, `mkfs.ext4 /dev/sdb1`: Creates a file system on a partition.
 - `lsof`: Lists open files. (Useful for troubleshooting unmounting issues)
 - `/etc/fstab`: Configuration file that contains information about disk drives and partitions.(Useful for automounting on boot)
+
+**Tags**: Linux
