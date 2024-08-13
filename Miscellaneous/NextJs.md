@@ -13,3 +13,5 @@
 
 - [Repository](https://github.com/MjMoshiri/Learn-NextJS)
 - [Production](https://nextjs-op.vercel.app/)
+
+**Tags**: JavaScript, React, Frontend, Web Development
