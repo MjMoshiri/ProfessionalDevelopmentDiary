@@ -1,4 +1,4 @@
-[Pickaxe Book - Programming Ruby 3.3](https://learning.oreilly.com/library/view/programming-ruby-3-3/9798888650684/)
+# [Pickaxe Book - Programming Ruby 3.3](https://learning.oreilly.com/library/view/programming-ruby-3-3/9798888650684/)
 
 [Ruby Evolution](https://rubyreferences.github.io/rubychanges/evolution.html)
 
@@ -27,4 +27,4 @@
     - `data[:mcu][0][:actors][1]` # => "Gwyneth Paltrow"
     - `data.dig(:mcu, 0, :actors, 1)` # => "Gwyneth Paltrow"
 
-**Tags**: `Ruby`, `Programming`, `Ruby 3.3`, `Coding Practices`
+**Tags**: `Ruby 3.3`
