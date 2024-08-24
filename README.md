@@ -9,6 +9,7 @@ I hope this repository will not only serve as a chronicle of my personal and pro
 ## Learning in Progress
 
 - [Startup Science](./Startup/) -  Entries documenting my learnings on how to build a successful startup. 
+- [Ruby](./Ruby/) -  Learning Ruby's syntax, features, and best practices. Currently reading [Pickaxe Book - Programming Ruby 3.3](https://learning.oreilly.com/library/view/programming-ruby-3-3/9798888650684/)
 
 ##  Previous Learning Journeys
 
