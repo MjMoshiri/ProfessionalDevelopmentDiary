@@ -15,7 +15,7 @@
 - **Keyword Arguments in Methods**:
   - Defined with names and used with specific keys. Example: `method_with_keywords(city:, state:, zip:)`.
   - Requires either an argument in the call or a default value; otherwise, an `ArgumentError` is raised.
-
+- **!** at the end of a method name typically indicates a method that modifies the receiver.
 ```ruby
   print "(t)imes or (p)lus: "
   operator = gets

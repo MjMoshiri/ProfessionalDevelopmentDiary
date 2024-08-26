@@ -17,6 +17,24 @@
     - `a[5..6] = 99, 98` #=> `["dog", "cat", 9, nil, nil, 99, 98]`
     - `a = %w[ant bee cat dog elk]` # => `["ant", "bee", "cat", "dog"]`
     - `a = %i[ant bee cat dog elk]` # => `[:ant, :bee, :cat, :dog]`
+- **===** is equal to **include?**.
+- **String**:
+  - **#{ }**: Used to embed expressions in strings. `puts "2 + 2 = #{2 + 2}"` #=> `2 + 2 = 4`
+  - Double-quoted strings allow escape sequences and interpolation.
+  - **`<<`**: Appends to a string.
+  - **`%q`**: Single-quoted string. e.g., `%q{This is a string}`
+  - **`%Q` and `%`**: Double-quoted string. e.g., `%Q{This is a string}` it could be followed by *any* delimiter.
+  - **HEREDOC**: Multiline string. e.g., `<<END_OF_STRING`. It can be used with `<<-` to ignore leading whitespace or `<<~` to ignore leading whitespace and indentation.
+  - **Encoding**: `# encoding: utf-8`
+  - **=~**: Matches a string with a regular expression and returns the index. `puts "cat" =~ /at/` #=> `1`
+- **Loops**:
+  - **`times`**: `5.times { |i| puts i }`
+  - **`upto`**: `1.upto(5)`
+  - **`downto`**: `5.downto(1)`
+  - **`step`**: `1.step(10, 2)`
+  - **`with_index`**: `1.upto(5).with_index { |i, idx| puts "#{i} - #{idx}" }`
+  - **`each`**: `a.each { |i| puts i }`
+  
 - **Stack and Queue Operations**:
   - **`pop`**: Removes the last element.
   - **`shift`**: Removes the first element.
