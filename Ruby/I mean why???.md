@@ -71,3 +71,21 @@ a
 ​ 	​end​
 ```
 
+- **IO.popen**: when it's called with a "-" it will fork the ruby interpreter and return the object to the `parent` process and `nil` to the `child` process.
+The child reads from the parent and writes to the parent using `gets` and `puts` respectively. The parent does the opposite using the `pipe` object.
+
+```ruby
+​ 	new_pipe = IO.​popen​(​"-"​,​"w+"​)
+​ 	​if​ new_pipe
+​ 	  new_pipe.​puts​ ​"Get a job!"​
+​ 	  $stderr.​puts​ ​"I'm the parent, the child said to me '​​#{​new_pipe.​gets​.​chomp​​}​​'"​
+​ 	​else​
+​ 	  $stderr.​puts​ ​"I'm the child, the parent said to me '​​#{​gets.​chomp​​}​​'"​
+​ 	  puts ​"OK"​
+​ 	​end​
+
+	# Output:
+	# I'm the child, the parent said to me 'Get a job!'
+	# I'm the parent, the child said to me 'OK'
+```
+**Tags**: `Ruby 3.3` 

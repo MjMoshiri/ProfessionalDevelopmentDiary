@@ -45,4 +45,23 @@
     - `data[:mcu][0][:actors][1]` # => "Gwyneth Paltrow"
     - `data.dig(:mcu, 0, :actors, 1)` # => "Gwyneth Paltrow"
 
+
+- **Exceptions**:
+  - **`Exception`**: Base class for all exceptions. (`StandardError` is the base class for all exceptions raised by Ruby programs.)
+  - **`begin` and `end`**: Used to start and end a block of code.
+  - **`kernal.caller`**: Returns the current call stack. e.g., `puts caller[0]`
+  - **`rescue`**: Used to handle exceptions.
+  - **`ensure`**: Always executed.
+  - **`retry`**: Retries the block.
+  - **`raise`**: Raises an exception.
+  - **`throw` and `catch`**: Used to exit a block of code.
+
+- **FILE**:
+  - **`__FILE__`**: Returns the name of the current file.
+  - **`__LINE__`**: Returns the current line number.
+  - **`__dir__`**: Returns the directory of the current file.
+  - **`File.realpath(__FILE__)`**: Returns the absolute path of the current file.
+  - You can pass ending character to each_line method. e.g., `File.open("file.txt").each_line("e") { |line| puts line }`
+  - `$stdout` and `$stderr` are global variables for standard output and standard error.
 **Tags**: `Ruby 3.3`
+ 
